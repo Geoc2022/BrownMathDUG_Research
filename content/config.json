@@ -1,0 +1,36 @@
+{
+  "title": "Brown Math Research",
+  "url": "https://lumen.alxshelepenok.com",
+  "subtitle": "Site to house Brown Math DUG research",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-73379983-2",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Categories",
+      "path": "/categories"
+    },
+    {
+      "label": "Tags",
+      "path": "/tags"
+    },
+    {
+      "label": "About",
+      "path": "/pages/about"
+    }
+  ],
+  "author": {
+    "name": "Math DUG Research",
+    "photo": "/photo.jpg",
+    "bio": "This site is meant to house research done by Math DUG members at Brown",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "Geoc2022",
+      "line": ""
+    }
+  }
+}
+
