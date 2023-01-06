@@ -16,7 +16,7 @@ We can render:
 
 $$ \frac{1}{\pi} = \frac{\sqrt{8}}{9801}\sum_{n=0}^{\infty}\frac{(4n)!}{(n!)^4}\times\frac{26390n + 1103}{396^{4n}}$$
 
-And inline euqations: \\(\sum_{n=0}^{\infty} \frac{1}{2^n} = 2\\)
+And inline equations: \\(\sum_{n=0}^{\infty} \frac{1}{2^n} = 2\\)
 
 - [Introduction](#introduction)
 - [Main Result](#main-result)
