@@ -18,6 +18,12 @@ $$ \frac{1}{\pi} = \frac{\sqrt{8}}{9801}\sum_{n=0}^{\infty}\frac{(4n)!}{(n!)^4}\
 
 And inline equations: \\(\sum_{n=0}^{\infty} \frac{1}{2^n} = 2\\)
 
+<details><summary>Hidden text (Click Here)</summary>
+<p>
+This could be used to explain a concept as an aside to the reader or make a small comment
+</p>
+</details>
+
 - [Introduction](#introduction)
 - [Main Result](#main-result)
 - [The Anti-Surjective Case](#the-anti-surjective-case)
