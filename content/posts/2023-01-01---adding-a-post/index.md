@@ -22,4 +22,4 @@ To get started, make sure you have Python installed on your system. The script u
 These libraries should be on your machine with your install of python
 
 ## Running the Script
-In your preferred IDE (or terminal), open the journal project and find the "addpost.py" script under "content/post". Move your LaTeX file to the "content/posts" folder. Run the python script using your IDE (or "python3 addpost.py" on your terminal), and answer the questions prompted by the script.
+Complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guide-to-start-writing-on-here#add-your-article) till "Create a new markdown file". In your preferred IDE (or terminal), open the repository and find the "addpost.py" script under "content/post". Move your LaTeX file to the "content/posts" folder. Run the python script using your IDE (or "python3 addpost.py" on your terminal), and answer the questions prompted by the script. Then complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guide-to-start-writing-on-here#add-your-article) starting from "Stage the file".
