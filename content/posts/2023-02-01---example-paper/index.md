@@ -6,6 +6,7 @@ draft: false
 slug: "/posts/example-paper"
 category: "Meta"
 tags:
+ - "Meta"
 description: "A nonsensical example paper"
 ---
 
