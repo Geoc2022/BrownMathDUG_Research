@@ -84,7 +84,7 @@ Morbi consectetur egestas justo ut efficitur. Sed tincidunt dictum mauris. Cras 
 <html>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mvmuCPvRoWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://www.desmos.com/calculator/exrjjl6ao6?embed" width="800" height="450" style="border: 0px solid #ccc" frameborder="0"></iframe>
+<iframe src="https://www.desmos.com/calculator/ywm3t2m1oj?embed" width="800" height="450" style="border: 0px solid #ccc" frameborder="0"></iframe>
 
 </html>
 
