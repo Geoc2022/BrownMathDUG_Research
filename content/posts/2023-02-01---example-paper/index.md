@@ -1,15 +1,12 @@
 ---
-title: Vectors Over Trivially Regular, Hyper-Banach, Euler Factors
-date: "2017-08-20T22:40:32.169Z"
+title: Example Paper
+date: "2023-01-02T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/vectors-over-trivially-regular-hyper-banach-euler-factors"
-category: "Group Theory"
+slug: "/posts/example-paper"
+category: "Meta"
 tags:
-  - "Left as Excerise to the Reader"
-  - "Quite Difficult"
-  - "Trivial"
-description: "Assume we are given a hull R¯. Every student is aware that ξ ≥ 2. We show that g > 2. Hence it has long been known that ϕ < 0 [29, 29]. This reduces the results of [29] to standard techniques of pure arithmetic arithmetic."
+description: "A nonsensical example paper"
 ---
 
 We can render:
