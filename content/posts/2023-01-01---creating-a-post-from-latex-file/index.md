@@ -11,8 +11,8 @@ description: "Quick intro to add a post to the journal"
 
 Check out the [example paper](http://george.chemmala.com/BrownMathDUG_Research/posts/vectors-over-trivially-regular-hyper-banach-euler-factors)
 
-- [Getting Repository Access](#gain-access-to-the-repository-on-github:)
-- [Adding an Article](#add-your-article:)
+- [Getting Repository Access](#gain-access-to-the-repository-on-github)
+- [Adding an Article](#add-your-article)
 - [Helpful Git Vocab](#git-terms)
 
 ## Gain access to the repository on GitHub:
