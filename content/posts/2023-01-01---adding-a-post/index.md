@@ -26,10 +26,10 @@ Complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guid
 
 Here are some items you may need to fix:
  - Images/Video:
-	* Images Documentation - https://www.markdownguide.org/basic-syntax/#images-1
-	* Embedded Images/Video - https://css-tricks.com/embedded-content-in-markdown/
+	* [Images Documentation](https://www.markdownguide.org/basic-syntax/#images-1)
+	* [Embedded Images/Video](https://css-tricks.com/embedded-content-in-markdown/)
  - Tables:
-	* Converting LaTeX to Markdown - https://tableconvert.com/latex-to-markdown
-	* Table Documentation - https://www.markdownguide.org/extended-syntax/#tables
+	* [Converting LaTeX to Markdown](https://tableconvert.com/latex-to-markdown)
+	* [Table Documentation](https://www.markdownguide.org/extended-syntax/#tables)
  - Footnotes:
-	* Footnote Documentation - https://www.markdownguide.org/extended-syntax/#footnotes
+	* [Footnote Documentation](https://www.markdownguide.org/extended-syntax/#footnotes)
