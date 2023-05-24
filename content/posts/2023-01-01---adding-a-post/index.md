@@ -22,7 +22,7 @@ To get started, make sure you have [Python installed](https://www.python.org/dow
 These libraries should be on your machine with your install of Python
 
 ## Running the Script
-Complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guide-to-start-writing-on-here#add-your-article) till "Create a new markdown file". In your preferred IDE (or terminal), open the repository and find the "[addpost.py](https://github.com/Geoc2022/BrownMathDUG_Research/blob/main/content/posts/addpost.py)" script under "content/post". Move your LaTeX file to the "content/posts" folder. Run the python script using your IDE (or "python3 addpost.py" on your terminal), and answer the questions prompted by the script. Then complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guide-to-start-writing-on-here#add-your-article) starting from "Stage the file".
+Complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guide-to-start-writing-on-here#add-your-article) till "Create a new markdown file". In your preferred IDE (or terminal), open the repository and find the "[addpost.py](https://github.com/Geoc2022/BrownMathDUG_Research/blob/main/content/posts/addpost.py)" script under "content/post". Move your LaTeX file to the "content/posts" folder. Run the python script using your IDE (or "python3 addpost.py" on your terminal), and answer the questions prompted by the script. Then complete the [steps](https://mathdugresearch.netlify.app/posts/step-by-step-guide-to-start-writing-on-here#stage-the-file) starting from "Stage the file".
 
 Here are some items you may need to fix:
  - Images/Video:
