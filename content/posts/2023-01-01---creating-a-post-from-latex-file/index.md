@@ -25,7 +25,7 @@ Check out the [example paper](http://george.chemmala.com/BrownMathDUG_Research/p
 ## Add your article:
 The following instructions are written with VSCode in mind and contains shortcuts on VSCode, but the steps can be replicated on other IDEs like WebStorm, Vim, etc.
 
-- **Install Git (Skip if on MacOS):** If you haven't already, you need to install Git on your computer. You can download and install it from the official Git website: https://git-scm.com/downloads
+- **Install Git (Skip if on macOS):** If you haven't already, you need to install Git on your computer. You can download and install it from the official Git website: https://git-scm.com/downloads
 
 - **Clone the repository:** Open VSCode (or your IDE of choice) and move to the "Welcome" tab. Click on the "Clone Repository" button. Enter the URL of the GitHub repository you want to contribute to and choose a folder on your computer to store the repository files.
 
