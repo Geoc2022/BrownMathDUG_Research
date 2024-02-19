@@ -21,6 +21,7 @@ Check out the [example paper](http://george.chemmala.com/BrownMathDUG_Research/p
 
 - <a name="accept-invitation" style="text-decoration:none">Accept invitation:</a> If the repository owner or collaborator grants you access to the repository, you will receive an email invitation from GitHub. Follow the instructions in the email to accept the invitation and gain access to the repository.
 
+## Alternatively you can skip the above and create a fork/pull request later
 
 ## Add your article:
 The following instructions are written with VSCode in mind and contains shortcuts on VSCode, but the steps can be replicated on other IDEs like WebStorm, Vim, etc.
@@ -54,10 +55,14 @@ The following instructions are written with VSCode in mind and contains shortcut
 
     * Type in a commit message and press Cmd+Enter (Mac) or Ctrl+Enter (Windows) to commit changes.
 
-- <a name="push-the-changes-to-the-remote-repository" style="text-decoration:none">Push the changes to the remote repository:</a> To push your changes to the remote repository, click on the "..." button next to the branch name in the "Source Control" panel and select "Push". This will upload your changes to the repository on GitHub.
+- <a name="push-the-changes-to-the-remote-repository" style="text-decoration:none">Push the changes to the remote repository:</a> To push your changes to the remote repository, click on the "..." button next to the branch name in the "Source Control" panel and select "Push". This will upload your changes to the repository on GitHub. (See belove if you skipped the first part to create a fork and then pull request)
 
     * Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows) to open the Command Palette.
     * Type "Git: Push" and press Enter to push changes to the remote repository.
+
+# If you are planning to make a pull request:
+- When pushing the changes, create a fork
+- Go to the [pull requests page](https://github.com/Geoc2022/BrownMathDUG_Research/pulls) and create a pull request to your fork. Then wait for the changes to be pulled to the main branch.
 
 ## Git Terms
 1. <a name="git" style="text-decoration:none">Git:</a> A version control system that allows developers to track changes to their code over time.
