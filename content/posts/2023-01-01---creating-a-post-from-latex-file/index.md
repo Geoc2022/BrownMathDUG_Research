@@ -60,7 +60,7 @@ The following instructions are written with VSCode in mind and contains shortcut
     * Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows) to open the Command Palette.
     * Type "Git: Push" and press Enter to push changes to the remote repository.
 
-# If you are planning to make a pull request:
+## If you are planning to make a pull request:
 - When pushing the changes, create a fork
 - Go to the [pull requests page](https://github.com/Geoc2022/BrownMathDUG_Research/pulls) and create a pull request to your fork. Then wait for the changes to be pulled to the main branch.
 
